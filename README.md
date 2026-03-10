@@ -1,6 +1,7 @@
 Hi there 👋
 
-I am a Senior at the University of Tennessee, Knoxville, pursuing a Bachelor's Degree in Computer Science. I am actively seeking a software engineering internship to apply and expand my skills.
+I am a Senior at the University of Tennessee, Knoxville, pursuing a Bachelor's Degree in Computer Science. I am actively seeking a full time position to apply and expand my skills.
 
-- Proficient in C, C++, and Unix
-- Familiar with CSS, HTML, JavaScript, Node.js, Python, and React.js
+- Programming Languages: C, C++, and Python, JavaScript
+- Web Development: CSS, HTML, React, Node.js, Next.js
+- Tools & Platforms: Git, Unix, Microsoft Power Platform
